@@ -3,7 +3,7 @@
 ![stock photo of paper and pen on desk](sample.jpg)
 
 # Introduction
-This repot is for people who want to see how their document would look on Medium without having to use Medium.
+This repot is for people who want to see how their document will look on Medium without having to use Medium.
 
 ## Example use-case
 
